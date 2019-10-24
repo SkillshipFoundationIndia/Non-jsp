@@ -1,0 +1,6 @@
+JSP stands for Java Server Pages. Files that contain the .jsp file extension are server-generated web pages. These JSP pages are very similar to ASP and PHP page files, however, instead of containing ActiveX or PHP code, the JSP file contains Java code.
+
+When a user's computer sends the JSP file to the Web server, the JSP file is then parsed and will generate a HTML code that is sent back to the user's PC. Web developers use JSP files to create dynamic website pages that are based on XML, HTML and other document formats.
+
+The JSP file format was developed in order to address the fact that people felt that Java didn't provide application developers with enough support for Web development purposes.
+
